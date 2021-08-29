@@ -1,8 +1,7 @@
 {
   "name": "three",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "license": "ISC",
   "scripts": {
     "start": "webpack-cli serve --mode development",
     "build": "webpack --mode production"
@@ -18,8 +17,5 @@
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.0.0"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
